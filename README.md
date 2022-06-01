@@ -1,15 +1,15 @@
-## Description
+## Description ##
 
-## Installation
+## Installation ##
 
-## Usage
+## Usage ##
 
-##⚠️ DATA SOURCES
+##⚠️ DATA SOURCES ##
 
-(Visuals)
+## (Visuals)##
 
-(Contributors)
+## (Contributors) ##
 
-(Timeline)
+## (Timeline) ##
 
-(Personal situation)
+## (Personal situation) ##
