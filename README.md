@@ -6,7 +6,7 @@
 
 ## DATA SOURCES ##
 
-## (Visuals)##
+## (Visuals) ##
 
 ## (Contributors) ##
 
