@@ -1,7 +1,5 @@
 ## Description ##
 
-## Installation ##
-
 ## Usage ##
 
 ## DATA SOURCES ##
