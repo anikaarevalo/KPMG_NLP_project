@@ -130,3 +130,6 @@ dmypy.json
 
 # meta data files
 /texts
+
+# scratch space ipynbs
+/assets
