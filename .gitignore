@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 # Data folders
 data/**
 
@@ -138,3 +139,10 @@ test_model.ipynb
 
 .DS_Store
 .gitignore
+=======
+# meta data files
+/texts
+
+# folder containing pre-processed files
+/clean_texts
+>>>>>>> 6e6622476f9db3d4782d9ed0d376041ad3f2a0ba
