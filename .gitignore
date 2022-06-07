@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data folders
+data/**
+
+keyword_extraction.ipynb
+scraping.ipynb
+test.ipynb
+test_model.ipynb
+
+.DS_Store
+.gitignore
