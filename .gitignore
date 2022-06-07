@@ -131,5 +131,5 @@ dmypy.json
 # meta data files
 /texts
 
-# scratch space ipynbs
-/scratch
+# folder containing pre-processed files
+/clean_texts
