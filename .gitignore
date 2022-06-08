@@ -133,3 +133,5 @@ dmypy.json
 
 # folder containing pre-processed files
 /clean_texts
+
+.DS_Store
