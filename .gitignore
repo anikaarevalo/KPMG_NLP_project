@@ -128,10 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# meta data files
-/texts
 
-# folder containing pre-processed files
-/clean_texts
-
-.DS_Store
