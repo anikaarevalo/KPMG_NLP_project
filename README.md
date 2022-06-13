@@ -2,7 +2,7 @@
 
 ## Usage ##
 
-## DATA SOURCES ##
+## Data Sources ##
 
 ## Visuals ##
 
