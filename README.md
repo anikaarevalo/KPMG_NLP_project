@@ -4,20 +4,30 @@
 
 ## DATA SOURCES ##
 
-## (Visuals) ##
+## Visuals ##
 
-                By topic: A light exploration of a sample Dutch text file 2019041722.txt
-<img width="500" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/7fd56b7cb95950aa7bbf897477bac7a1c1f6bbed/assets/IDM.jpg">
-
-
+                     By topic: A visual exploration of 10 Dutch text files
+<img width="500" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/cbc0edf93796f9012c9efade00221b5273641d29/assets/IDM10.jpg">
 
 
 
-          IDM related to relevant keywords: A light exploration of a sample Dutch text file 2019041722.txt
-<img width="500" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/7fd56b7cb95950aa7bbf897477bac7a1c1f6bbed/assets/top30.jpg">
 
-## (Contributors) ##
+                     IDM related to relevant keywords: A visual exploration of 10 Dutch text files
+<img width="500" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/cbc0edf93796f9012c9efade00221b5273641d29/assets/top30_10.jpg">
 
-## (Timeline) ##
 
-## (Personal situation) ##
+## Contributors: "The Tag Collectors" ##
+
+Anika Arevalo
+
+Mouad Belayachi
+
+Wouter van de Vijver (Project Manager)
+
+## Timeline ##
+
+12 days
+
+01/06/2022 - 16/06/2022
+
+## Personal situation ##
