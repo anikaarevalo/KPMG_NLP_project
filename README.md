@@ -19,7 +19,9 @@
 ## Contributors: "The Tag Collectors" ##
 
 Anika Arevalo
+
 Mouad Belayachi
+
 Wouter van de Vijver (Project Manager)
 
 ## Timeline ##
