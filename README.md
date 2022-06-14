@@ -10,6 +10,8 @@ This is a **plug-and-play software that effectively identitifies and classifies 
 
 ## Data Sources ##
 
+-meta data, LDA & Mallet tutorial
+
 ## Visuals ##
 
                      By topic: A visual exploration of 628 Dutch legal text files
