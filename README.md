@@ -33,7 +33,7 @@ This is a **plug-and-play digital tool that effectively identitifies and classif
 
 
 
-## Contributors: "The Tag Collectors" ##
+## Contributors: 'The Tag Collectors' ##
 
 Anika Arevalo (Scrum Master)
 
