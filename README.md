@@ -14,7 +14,8 @@ This is a **plug-and-play digital tool that effectively identitifies and classif
 
 ## Visuals ##
 
-
+                   Our LDA model optimised by the Mallet algorithm showing an example of topic-keyword distribution 
+<img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/be3c73a5a09b6cc976f9a862facadc7dd37620f7/assets/topic_bubbles.png">
 
 
 ## Contributors: "The Tag Collectors" ##
