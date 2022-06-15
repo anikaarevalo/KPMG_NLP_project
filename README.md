@@ -27,7 +27,7 @@ This is a **plug-and-play digital tool that effectively identitifies and classif
 
 
                   Image of the interface of our Deep Learning Solution
-                  
+<img width="500" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/4f41a947a633b3804e6a1cf82265df38e10b5518/assets/excel.png">
 
 
 ## Contributors: "The Tag Collectors" ##
