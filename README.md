@@ -9,16 +9,16 @@ We shall present our prototype to the intended **end-users, i.e. KPMG Belgium's 
 This is a **digital tool that effectively identitifies and classifies Belgian legal tax documents in the Dutch language**. At this stage of the product cycle development, it is a proof of concept that we can show to our clients who are open to leveraging AI and ML technologies when it comes to the provision of professional financial and accounting services.
 
 ## Installation ##
-In the repository you can find the requirements.txt file. Make sure that these are installed. 
+In the repository you can find the **requirements.txt** file. Make sure that these are installed. 
 
 ## Usage ##
-To analyze a text, go to the demo.ipynb file. In this file you can enter your text and run through the notebook. It will output .csv file. (See visualisations)
+- To analyze a text, go to the **demo.ipynb** file. In this file you can enter your text and run through the notebook. It will output **.csv file**. (See visualisations)
 
-The file topics_with_final_set_of_words.ipynb is where the actual model is created. The model is already trained and can be found in the models folder. 
+- The file **topics_with_final_set_of_words.ipynb** is where the actual model is created. The model is already trained and can be found in the models' folder. 
 
-The notebooks scraping.ipynb and cleaning_texts.ipynb are notebooks made for scraping our initial dataset and cleaning this dataset. The full preprocessing is combined in the preprocessing.py file.
+- The notebooks **scraping.ipynb** and **cleaning_texts.ipynb** are notebooks made for scraping our initial dataset and cleaning this dataset. The full preprocessing is combined in the **preprocessing.py** file.
 
-The file custom_ner.ipynb is an early attempt to create an annotator for legal texts but does as of now not contribute to the actual preprocessing.
+- The file **custom_ner.ipynb** is an early attempt to create an annotator for legal texts but does not, as of now, contribute to the actual preprocessing.
 
 
 
@@ -47,7 +47,7 @@ The file custom_ner.ipynb is an early attempt to create an annotator for legal t
 
 
 
-## Contributors: "The Tag Collectors" ##
+## Contributors: 'The Tag Collectors' ##
 
 Anika Arevalo (Scrum Master)
 
