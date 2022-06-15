@@ -25,8 +25,12 @@ This is a **plug-and-play digital tool that effectively identitifies and classif
                    Our LDA model optimised by the Mallet algorithm showing an example of topic-keyword distribution 
 <img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/be3c73a5a09b6cc976f9a862facadc7dd37620f7/assets/topic_bubbles.png">
 
+                                    Image of the interface of our deep learning solution
+<img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/4f41a947a633b3804e6a1cf82265df38e10b5518/assets/excel.png">
 
-                  Image of the interface of our Deep Learning Solution
+
+
+
 
 
 ## Contributors: "The Tag Collectors" ##
@@ -46,4 +50,7 @@ Wouter van de Vijver (Project Manager)
 01/06/2022 - 16/06/2022
 
 ## Personal situation ##
-- (To do: incorporate a customised NER pre-processing pipeline)
+Our team was able to successfully train and test two Mallet LDA models in Dutch of two sizes (small and large). **As our minimum viable product (MVP), we present to our clients the prototype developed using the small-sized NLP model that can be immediately deployed as a mobile application**.
+Nonetheless, we also provide a trained large-sized NLP model to anticipate the downstream NLP tasks which KPMG's Advanced Analytics & AI, and Intelligent Automation & New Tech departments could leverage. 
+
+Last but not the least, we are also presenting **a prototype of a NER pipeline that can be integrated into this MVP**. If given another opportunity and more time, we would like to optimise this proof of concept further by including this customised (and customisable) pipeline in the design. 
