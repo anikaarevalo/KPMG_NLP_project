@@ -138,3 +138,7 @@ topic_modeling.ipynb
 
 /mallet-2.0.8/**
 /dutch/**
+
+# test folder
+clean_texts/
+texts/
