@@ -10,7 +10,7 @@ This is a **plug-and-play digital tool that effectively identitifies and classif
 
 ## Data Sources ##
 
-- **Meta data** provided by the client
+- **Meta data** provided by KPMG Belgium
 - **[The Belgian Official Gazette (Dutch)](https://www.ejustice.just.fgov.be/cgi/welcome.pl)** for both training and testing data 
 - **Research material on Natural Language Processing (NLP) models** and available libraries were sourced from the following:
   - Latent Dirilicht Allocation (LDA) model optimised by the Mallet algorithm 
