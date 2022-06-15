@@ -14,14 +14,7 @@ This is a **plug-and-play digital tool that effectively identitifies and classif
 
 ## Visuals ##
 
-                     By topic: A visual exploration of 628 Dutch legal text files
-<img width="500" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/a8a2f82a2500325b1e8c13e5d315910a5ea8d59b/assets/628_files.jpg">
 
-
-
-
-               IDM related to relevant keywords: A visual exploration of 628 Dutch legal text files
-<img width="500" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/a8a2f82a2500325b1e8c13e5d315910a5ea8d59b/assets/bubblenumber1.jpg">
 
 
 ## Contributors: "The Tag Collectors" ##
