@@ -27,6 +27,7 @@ This is a **plug-and-play digital tool that effectively identitifies and classif
 
 
                   Image of the interface of our Deep Learning Solution
+                  
 
 
 ## Contributors: "The Tag Collectors" ##
@@ -46,4 +47,7 @@ Wouter van de Vijver (Project Manager)
 01/06/2022 - 16/06/2022
 
 ## Personal situation ##
-- (To do: incorporate a customised NER pre-processing pipeline)
+Our team was able to adequately and successfully train and test two Mallet LDA models in Dutch of two sizes (small and large). As our minimum viable product (MVP), we present to our clients the prototype developed using the small-sized NLP model that can be immediately deployed as a mobile application.
+Nonetheless, we also provide a trained large-sized NLP model to anticipate the downstream NLP tasks which KPMG's Advanced Analytics & AI, and Intelligent Automation & New Tech departments could leverage. 
+
+Last but not the least, we are also presenting a prototype of a NER pipeline that can be integrated into this MVP. If given another opportunity and more time, we would like to optimise our prototype further by including this customised (and customisable) pipeline in the design. 
