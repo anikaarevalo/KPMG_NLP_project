@@ -128,15 +128,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-<<<<<<< HEAD
 
 /data/**
 keyword_extraction.ipynb
 test_model.ipynb
 test.ipynb
 topic_modeling.ipynb
-=======
-# meta data files
-texts/
-clean_texts/
->>>>>>> 60bc39bd23a31ffa721de17ca64a6a5affddb829
+
+
+/mallet-2.0.8/**
+/dutch/**
