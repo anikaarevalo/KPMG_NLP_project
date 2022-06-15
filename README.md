@@ -3,7 +3,7 @@
 ## Description ##
 **KPMG Belgium**, a leading professional services firm specialising in finance and accounting, wants to ***improve their tax knowledge management system*** that allows their employees to save, access, and load tax-relevant data pertinent to their tasks and activities. To this end, they have contracted us to build **a Machine Learning (ML) solution that would automate the repetitive (and partially manual) tasks of gathering and sorting tax-relevant legal documents published regularly on the Belgian Official Gazettte**. 
 
-We shall present our prototype to the intended **end-users--i.e. KPMG Belgium's Corporate Tax Department**, who stand to benefit from having the monotonous and tedious task of tax data gathering and classification ***automised*** efficiently, cost-effectively, and on demand.
+We shall present our prototype to the intended **end-users, i.e. KPMG Belgium's Corporate Tax Department**, who stand to benefit from having the monotonous and tedious task of tax data gathering and classification ***automised*** efficiently, cost-effectively, and on demand.
 
 ## Usage ##
 This is a **plug-and-play digital tool that effectively identitifies and classifies Belgian legal tax documents in the Dutch language**. At this stage of the product cycle development, it is a proof of concept that we can show to our clients who are open to leveraging AI and ML technologies when it comes to the provision of professional financial and accounting services. 
