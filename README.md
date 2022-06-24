@@ -38,10 +38,12 @@ In the repository you can find the **requirements.txt** file. Make sure that the
 
                    Our LDA model optimised by the Mallet algorithm showing an example of topic-keyword distribution 
 <img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/be3c73a5a09b6cc976f9a862facadc7dd37620f7/assets/topic_bubbles.png">
+A good topic model possessing fairly big, non-overlapping bubbles scattered throughout the chart instead of being clustered in one quadrant. When you hover
+over the bubbles, the interactive plot highlights the related keywords by ranking.
 
-                                    Image of the interface of our deep learning solution
+                                    **Image of the interface of our deep learning solution**
 <img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/4f41a947a633b3804e6a1cf82265df38e10b5518/assets/excel.png">
-
+A sample output of top-20 topics and their correlated keywords when a tax-relevant document is fed as an input to our NLP LDA model optimised with Mallet algorithm
 
 
 
@@ -49,13 +51,19 @@ In the repository you can find the **requirements.txt** file. Make sure that the
 
 ## Contributors: 'The Tag Collectors' ##
 
-Anika Arevalo (Scrum Master)
+- Anika Arevalo (Scrum Master)
 
-Anzeem Arief
+https://www.linkedin.com/in/anika-arevalo/
 
-Mouad Belayachi
+- Anzeem Arief
 
-Wouter van de Vijver (Project Manager)
+
+- Mouad Belayachi
+
+
+- Wouter van de Vijver (Project Manager)
+
+https://www.linkedin.com/in/wouter-van-de-vijver
 
 ## Timeline ##
 
