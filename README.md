@@ -41,7 +41,7 @@ In the repository you can find the **requirements.txt** file. Make sure that the
 A good topic model possessing fairly big, non-overlapping bubbles scattered throughout the chart instead of being clustered in one quadrant. When you hover
 over the bubbles, the interactive plot highlights the related keywords by ranking.
 
-                                    **Image of the interface of our deep learning solution**
+                                    Image of the interface of our deep learning solution
 <img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/KPMG_NLP_project/blob/4f41a947a633b3804e6a1cf82265df38e10b5518/assets/excel.png">
 A sample output of top-20 topics and their correlated keywords when a tax-relevant document is fed as an input to our NLP LDA model optimised with Mallet algorithm
 
